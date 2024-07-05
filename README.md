@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**GitJiYeon/GitJiYeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 볼건 없긴 한데
 
-Here are some ideas to get you started:
+![뭔데이거](제목을-입력해주세요_-001.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## SNS
+<a href="https://www.instagram.com/jiye_xn/" target="_blank"><img src="https://img.shields.io/badge/Instagram-20232a?style=for-the-badge&logo=instagram&logoColor=ff00ff"/></a>
+
+## I WISH.. ;)
+[![My Skills](https://skillicons.dev/icons?i=java,js,c)](https://skillicons.dev)
+
+</div>
