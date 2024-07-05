@@ -10,4 +10,5 @@
 ## I WISH.. ;)
 [![My Skills](https://skillicons.dev/icons?i=java,js,c)](https://skillicons.dev)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitJiYeon&layout=compact)
 </div>
