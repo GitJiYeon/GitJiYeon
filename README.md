@@ -6,6 +6,8 @@
 -
 [![My Skills](https://skillicons.dev/icons?i=java,html,c)](https://skillicons.dev)
 -
+[![My Skills](https://skillicons.dev/icons?i=unity,eclipse,vscode)](https://skillicons.dev)
+-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitJiYeon&layout=compact)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF33FF&height=130&section=footer" />
