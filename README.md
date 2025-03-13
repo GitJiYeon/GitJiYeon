@@ -10,7 +10,7 @@
 ## ⚡ Tech Stack  
 
 ### **💻 Languages**
-[![My Skills](https://skillicons.dev/icons?i=java,javascript,python,c,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,javascript,python,c)](https://skillicons.dev)
 
 ### **🛠 Tools & Platforms**
 [![My Skills](https://skillicons.dev/icons?i=unity,eclipse,vscode,mysql,pycharm)](https://skillicons.dev)
