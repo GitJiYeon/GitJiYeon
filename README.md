@@ -17,18 +17,19 @@
 
 ---
 
-## 📊 **GitHub Stats**  
+## 📊 **Stats**  
 
 <!-- GitHub 사용 언어 통계 -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitJiYeon&layout=compact&theme=radical)
 
-<!-- 깃허브 활동 카드 추가 -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GitJiYeon&theme=radical)
 
-<!-- GitHub Stats 카드 추가 -->
-![JiYeon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GitJiYeon&show_icons=true&theme=radical)
-
----
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=GitJiYeon&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/GitJiYeon"
+  width="600"
+  height="300"
+/>
+</a>
 
 <!-- 푸터 배너 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff477e&height=100&section=footer" />
