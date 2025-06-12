@@ -1,37 +1,22 @@
 <!-- 헤더 배너 -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff477e&height=100&section=header" />
-  
-## ✨ **Work Hard** ✨
-## 👋 **안녕하세요, 개발자 호소인 한지연입니다.**
+<img src="https://capsule-render.vercel.app/api?type=slice&color=32edb5&height=200&text=Hello%20there!&fontAlign=70&fontColor=ffffff&rotate=13&fontAlignY=25&desc=Jiyeon's%20GitHub&descAlign=70.&descAlignY=44" alt="GitHub Banner" width="100%" />
+<h1 style="border-bottom: none;"> Work Hard!<br>
+  Welcome to my github👀</h1>
 
----
+<h2> ⭐Languages </h2>
 
-## ⚡ Tech Stack  
-
-### **💻 Languages**
 [![My Skills](https://skillicons.dev/icons?i=java,javascript,python,c,cs)](https://skillicons.dev)
-
-### **🛠 Tools**
+## 🛠 Tools
 [![My Skills](https://skillicons.dev/icons?i=unity,eclipse,vscode,mysql,pycharm)](https://skillicons.dev)
 
----
+## 🐾log
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gitjiyeon)](https://github.com/eungyeole/velog-readme-stats)
 
-## 📊 **Stats**  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitJiYeon&layout=compact&theme=radical" width="450px"/>
 
-<!-- GitHub 사용 언어 통계 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitJiYeon&layout=compact&theme=radical)
-
-
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=GitJiYeon&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/GitJiYeon"
-  width="600"
-  height="300"
-/>
-</a>
 
 <!-- 푸터 배너 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff477e&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=47ffc8&height=130&section=footer" width="100%"/>
 
 </div>
