@@ -11,7 +11,7 @@
 [![My Skills](https://skillicons.dev/icons?i=unity,eclipse,vscode,mysql,pycharm)](https://skillicons.dev)
 
 ## 🐾log
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gitjiyeon)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gitjiyeon)](https://velog.io/@gitjiyeon/posts)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitJiYeon&layout=compact&theme=radical" width="450px"/>
 
