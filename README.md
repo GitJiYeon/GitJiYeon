@@ -2,7 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff852e&height=220&section=header&text=Welcome%20to%20my%20Github!&fontColor=ffffff&fontSize=40&fontAlignY=35&desc=실패를%20두려워하지%20않는%20개발자%20한지연%20입니다!&descAlignY=60" width="100%"/>
 
-<br/><br/>
+<br/>
+Contact me : <a href="mailto:s2436@e-mirim.hs.kr">s2436@e-mirim.hs.kr</a>
+
 
 ## Tech Stack
 
