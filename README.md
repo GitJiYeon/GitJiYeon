@@ -1,51 +1,47 @@
-<div align="center">
+<div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff852e&height=220&section=header&text=Welcome%20to%20my%20Github!&fontColor=ffffff&fontSize=40&fontAlignY=35&desc=실패를%20두려워하지%20않는%20개발자%20한지연%20입니다!&descAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=38bdf8&height=190&section=header&text=✧𝑊𝑒𝑙𝑐𝑜𝑚𝑒%20𝑡𝑜%20𝑚𝑦%20𝐺𝑖𝑡ℎ𝑢𝑏!✧&fontColor=ffffff&fontSize=40&fontAlignY=35&desc=빠삭한%20개발자%20한지연%20입니다.%20ʅ(ᐙʅ)&descAlignY=60" width="100%"/>
 
-<br/>
-Contact me : <a href="mailto:s2436@e-mirim.hs.kr">s2436@e-mirim.hs.kr</a>
-
-
-## Tech Stack
-
-**Languages**
+**𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬**
 <br>
 <img src="https://skillicons.dev/icons?i=java,python,php,cs,html,css,js" />
 
 <br/>
 
-**Frameworks & Runtime**
+**𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬 & 𝐑𝐮𝐧𝐭𝐢𝐦𝐞**
 <br>
 <img src="https://skillicons.dev/icons?i=react,nodejs,spring" />
 
 <br/>
 
-**Database & Backend**
+**𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞 & 𝐁𝐚𝐜𝐤𝐞𝐧𝐝**
 <br>
 <img src="https://skillicons.dev/icons?i=mysql,firebase,supabase" />
 
 <br/>
 
-**Game Development**
+**𝐆𝐚𝐦𝐞 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭**
 <br>
 <img src="https://skillicons.dev/icons?i=unity,blender,gamemakerstudio" />
 
 <br/>
 
-**Tools**
+**𝐓𝐨𝐨𝐥𝐬**
 <br>
 <img src="https://skillicons.dev/icons?i=eclipse,vscode,pycharm,git,github" />
 
-<br/><br/>
+<hr>
 
-###  Log
+### ✧𝐁𝐚𝐞𝐤𝐣𝐨𝐨𝐧 𝐒𝐭𝐚𝐭𝐬✧
 
-| **GitHub Stats** | **Velog Posts** |
-| :---: | :---: |
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GitJiYeon&theme=radical&hide_border=true&background=0D1117) | <a href="https://velog.io/@gitjiyeon/posts"><img src="https://velog-readme-stats.vercel.app/api?name=gitjiyeon&theme=dark&hide_border=true&title_color=ff852e" height="160px"/></a> |
+<a href="https://solved.ac/jiyeon14">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jiyeon14" width="400px" /> </a>
+
+
+###  ✧𝐆𝐢𝐭𝐡𝐮𝐛 𝐬𝐭𝐚𝐭𝐮𝐬✧
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GitJiYeon&show_icons=true&theme=calm&hide_border=true&include_all_commits=true)
+![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=GitJiYeon&layout=compact&theme=calm&hide_border=true)
+
 
 <br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff852e&height=100&section=footer" width="100%"/>
-
-</div>
+Contact me : <a href="mailto:s2436@e-mirim.hs.kr">s2436@e-mirim.hs.kr</a>
